@@ -1,0 +1,31 @@
+body{
+    background-image: url("images/bg.png");
+}
+#txt{
+    font-size: 75px;
+    background-color: rgba(0, 102, 255, 0.22);
+    text-align: center;
+    font-family:Consolas,'Lucida Console','DejaVu Sans Mono',monospace;
+}
+#su{
+    color: white;
+    font-size: 35px;
+    font-family:'Monotype Corsiva','Apple Chancery','ITC Zapf Chancery','URW Chancery L',cursive;
+}
+#name{
+    background-color: #00A300;
+    font-size: 18px;
+}
+#email{
+    background-color: #00A300;
+    font-size: 18px;
+}
+#send{
+    font-size: 12px;
+    
+}
+#sendb{
+    background-color: #003CFF;
+    font-size: 18px;
+    color: white;
+}
