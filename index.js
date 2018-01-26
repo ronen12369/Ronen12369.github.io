@@ -1,5 +1,6 @@
-function save(name,mail){
-    var n = name;
-    var m = mail;
-    return n+","+m
+function save(){
+    var n = document.getElementById("name");
+    var m = document.getElementById("mail");
+    //return n+","+m;
+    alert (n+","+m);
 }
